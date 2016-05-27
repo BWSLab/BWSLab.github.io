@@ -11,3 +11,8 @@ In practice we will run several versions of code - some for stability testing, s
 * Høyskolen i Bergen
 * Sensario
 * FriskByBergen
+
+## Contact
+
+* Nils Jacob Berland - njberland (at) gmail.com
+* Knut Øvsthus - knut.ovsthus (at) hib.no
